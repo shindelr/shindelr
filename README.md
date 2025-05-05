@@ -1,16 +1,16 @@
 <h1>Hi, I'm Robin.<br/><a href="https://github.com/shindelr">Programmer and Data Analyst</a></h1>
 
-<h2>Software Development Projects:</h2>
+<h2>Project Highlights:</h2>
 <ul>
   
-  <li>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas)</li>
+  <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas</h3>
     <ul>
       <li>Visit <a href="https://www.agbizlogic.com">AgBiz Logic</a> to see the company my team develoepd for. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
       <li>Developed an RESTful API Endpoint in Django.</li>
       <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values, and load them into a JSON using Pandas.</li>
     </ul>
     
-  <li>Research & Data Processing</li>
+  <h3>Research & Data Processing</h3>
     <ul> 
       <li> <a href="https://github.com/shindelr/Nearshore-PIV">Swash Image Processing</a></li>
       <ul>
@@ -22,7 +22,7 @@
       </ul>           
     </ul>
 
-  <li>Scripting</li>
+  <h3>Scripting</h3>
     <ul>
       <li> <a href="https://github.com/shindelr/scripts"> General Automation </a> </li>
       <ul>
@@ -33,7 +33,7 @@
       </ul>
     </ul>
     
-  <li>Analytics & Machine Learning</li>
+  <h3>Analytics & Machine Learning</h3>
     <ul>
     <li><a href="https://github.com/shindelr/churn-analysis-406"> IBM Telco Customer Churn Analysis </a></li>
       <ul>
@@ -48,7 +48,7 @@
       </ul>
     </ul>
     
-  <li>Full Stack Applications & Cloud Development</li>
+  <h3>Full Stack Applications & Cloud Development</h3>
     <ul>
       <li><a href="https://github.com/shindelr/gcp-tarpaulin"> Tarpaulin Learning Management System </a></li>
         <ul>

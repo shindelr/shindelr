@@ -7,7 +7,7 @@
     <ul>
       <li>My team and I developed this project for <a href="https://www.agbizlogic.com">AgBiz Logic</a>. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
       <li>Developed a RESTful API Endpoint in Django.</li>
-      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values and load them into a JSON using Pandas.</li>
+      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values and loaded them into a JSON using Pandas.</li>
     </ul>
     
   <h3>Research & Data Processing</h3>
@@ -58,7 +58,7 @@
         </ul>
       <li><a href="https://github.com/shindelr/Session-Logger"> The Session Logger </a></li>
         <ul>
-          <li> A fun project built for surfers wantign to log a diary of their surf sessions. Users simply enter the date and time when they were out in the water, and a rating out of 5-stars to be associated with it. The application then interfaces with the National Data Buoy Center's API to extract the realtime conditions the surfer would have experienced during their surf. This data is stored in a TSQL database hosted on Microsoft Azure.</li>
+          <li> A fun project built for surfers wanting to log a diary of their surf sessions. Users simply enter the date and time when they were out in the water, and a rating out of 5-stars to be associated with it. The application then interfaces with the National Data Buoy Center's API to extract the realtime conditions the surfer would have experienced during their surf. This data is stored in a TSQL database hosted on Microsoft Azure.</li>
           <li>The backend API and data processing business logic is built on Python with Flask.</li>
           <li>The application frontend is built on TypeScript with React.</li>
         </ul>

@@ -3,7 +3,7 @@
 <h2>Project Highlights:</h2>
 <ul>
   
-  <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas</h3>
+  <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas)</h3>
     <ul>
       <li>Visit <a href="https://www.agbizlogic.com">AgBiz Logic</a> to see the company my team develoepd for. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
       <li>Developed an RESTful API Endpoint in Django.</li>

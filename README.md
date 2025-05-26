@@ -5,9 +5,9 @@
   
   <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas)</h3>
     <ul>
-      <li>Visit <a href="https://www.agbizlogic.com">AgBiz Logic</a> to see the company my team develoepd for. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
-      <li>Developed an RESTful API Endpoint in Django.</li>
-      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values, and load them into a JSON using Pandas.</li>
+      <li>My team and I developed this project for <a href="https://www.agbizlogic.com">AgBiz Logic</a>. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
+      <li>Developed a RESTful API Endpoint in Django.</li>
+      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values and load them into a JSON using Pandas.</li>
     </ul>
     
   <h3>Research & Data Processing</h3>

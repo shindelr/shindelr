@@ -12,7 +12,7 @@
     
   <h3>Research & Data Processing</h3>
     <ul> 
-      <li> <a href="https://github.com/shindelr/Nearshore-PIV">Swash Image Processing</a></li>
+      <li> <a href="https://github.com/shindelr/juliaPIV">Swash Image Processing</a></li>
       <ul>
         <li> A tool built for Professor Greg Wilson's analysis of nearshore wave interactions on rocky coastlines. </li>
         <li> Originally built in MATLAB, I ported this software into Julia and modified it to fit the lab's specific purposes. Current benchmarking shows an average performance

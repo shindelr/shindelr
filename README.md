@@ -2,13 +2,6 @@
 
 <h2>Project Highlights:</h2>
 <ul>
-  
-  <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas)</h3>
-    <ul>
-      <li>My team and I developed this project for <a href="https://www.agbizlogic.com">AgBiz Logic</a>. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
-      <li>Developed a RESTful API Endpoint in Django.</li>
-      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values and loaded them into a JSON using Pandas.</li>
-    </ul>
     
   <h3>Research & Data Processing</h3>
     <ul> 
@@ -19,21 +12,10 @@
         increase of 50% over the original. </li>
         <li> Includes the creation of a Julia & Python hybrid pipeline to feed TB's of images through the main Particle Image Velocimetry program.</li>
         <li> Visit the <a href="https://blogs.oregonstate.edu/wilsonlab/"> CIL lab webpage </a> for more details on this great research group. </li>
-      </ul>           
+      </ul>      
     </ul>
 
-  <h3>Scripting</h3>
-    <ul>
-      <li> <a href="https://github.com/shindelr/scripts"> General Automation </a> </li>
-      <ul>
-        <li> These scripts are general command line applications built to simplify certain tasks that would be time consuming otherwise. </li>
-          <li>Some of them are quite simple, such as `recently-downloaded`, which just moves the most  recently downloaded file on your computer to the current directory. 
-          While trivial in implementation, this script was quite useful for school, where I spent a surprising amount of time moving files around and organizing assignments.</li>
-          <li> `batchscript` was developed specifically for use in the Swash Image Processing project above but could be used in other contexts as well. The script creates a series of text files containing the absolute paths to files such as images. I used this to separate out batches equal to the number of processes I intended to use in image processing.   </li>
-      </ul>
-    </ul>
-    
-  <h3>Analytics & Machine Learning</h3>
+   <h3>Analytics & Machine Learning</h3>
     <ul>
     <li><a href="https://github.com/shindelr/churn-analysis-406"> IBM Telco Customer Churn Analysis </a></li>
       <ul>
@@ -68,6 +50,24 @@
           <li> Built fully on JavaScript, Node & Express, with a custom built relational database.</li>
           <li> The primary purpose of this project was to gain hands on experience normalizing a structured DB, writing out Entity Relationship Diagrams and engineering Schemas.</li>
         </ul>
+    </ul>
+    
+  <h3>Senior Capstone Software Development (Django, Selenium, AngularJS, Pandas)</h3>
+    <ul>
+      <li>My team and I developed this project for <a href="https://www.agbizlogic.com">AgBiz Logic</a>. Our work resides under an NDA as this is an industry partner to                 Oregon State University.</li>
+      <li>Developed a RESTful API Endpoint in Django.</li>
+      <li>Implemented a fully automated Python script to grab a spreadsheet from Cornell University containing EIQ values and loaded them into a JSON using Pandas.</li>
+    </ul>
+    
+  <h3>Scripting</h3>
+    <ul>
+      <li> <a href="https://github.com/shindelr/scripts"> General Automation </a> </li>
+      <ul>
+        <li> These scripts are general command line applications built to simplify certain tasks that would be time consuming otherwise. </li>
+          <li>Some of them are quite simple, such as `recently-downloaded`, which just moves the most  recently downloaded file on your computer to the current directory. 
+          While trivial in implementation, this script was quite useful for school, where I spent a surprising amount of time moving files around and organizing assignments.</li>
+          <li> `batchscript` was developed specifically for use in the Swash Image Processing project above but could be used in other contexts as well. The script creates a series of text files containing the absolute paths to files such as images. I used this to separate out batches equal to the number of processes I intended to use in image processing.   </li>
+      </ul>
     </ul>
     
   

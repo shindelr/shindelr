@@ -1,4 +1,4 @@
-<h1>Hi, I'm Robin.<br/><a href="https://github.com/shindelr">Software Engineer and Data Analyst</a></h1>
+<h1>Hi, I'm Robin.<br/><a href="https://github.com/shindelr">Software Engineer</a></h1>
 
 <h2>Project Highlights:</h2>
 <ul>

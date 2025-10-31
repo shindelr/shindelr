@@ -30,7 +30,7 @@
       </ul>
     </ul>
     
-  <h3>Full Stack Applications & Cloud Development</h3>
+  <h3>Web & Cloud Development</h3>
     <ul>
       <li><a href="https://github.com/shindelr/gcp-tarpaulin"> Tarpaulin Learning Management System </a></li>
         <ul>
